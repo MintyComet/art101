@@ -17,4 +17,11 @@ p {
   padding: 10px;
   margin: 10px;
 }
-  
+
+#my-portrait{
+  width: 400px;
+}
+
+#nick-portrait{
+  width: 400px;
+}
