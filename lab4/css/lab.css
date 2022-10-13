@@ -2,7 +2,6 @@ h1 {
   font-family: verdana;
   padding: 10px;
   color: #b27ceb;
-
 }
 
 h2 {
@@ -23,11 +22,16 @@ color: #366080;
   border-color: #ada2de;
   padding: 10px;
   margin: 10px;
-
 }
 
 ol {
   font-family: verdana;
   line-height: 1.3;
   color: #291242;
+}
+
+#lab4-finished{
+  width: 700px;
+  padding-left: 20px;
+  padding-bottom: 10px;
 }
