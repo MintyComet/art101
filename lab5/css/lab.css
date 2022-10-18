@@ -1,0 +1,40 @@
+body {
+  background-color: #fff7eb;
+}
+
+h1 {
+  color: #ff96a8;
+  font-size: 300%;
+  text-indent: 15px;
+  text-align: left;
+}
+
+#content {
+  padding: 20px;
+  margin-left: 15px;
+}
+
+#carpicture{
+width: 400px;
+padding-top: 50px;
+padding-left: 50px;
+margin-right: 20px;
+margin-left: 15px;
+float: right;
+}
+
+h2 {
+  font-size: 200%;
+  color: #52d191;
+}
+
+p {
+  font-size: 20px;
+  color: #24595e;
+}
+
+div.output {
+  font-size: 20px;
+  padding-bottom: 20px;
+  color: #131057;
+}
