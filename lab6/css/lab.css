@@ -1,0 +1,44 @@
+body {
+  background-color: #fff7eb;
+}
+
+h1 {
+  color: #9f7de8;
+  font-size: 300%;
+  font-family: geneva;
+  text-indent: 15px;
+  text-align: left;
+}
+
+#content {
+  padding: 20px;
+  margin-left: 15px;
+}
+
+#carpicture{
+width: 400px;
+padding-top: 50px;
+padding-left: 50px;
+margin-right: 20px;
+margin-left: 15px;
+float: right;
+}
+
+h2 {
+  font-size: 200%;
+  font-family: geneva;
+  color: #e66c96;
+}
+
+p {
+  font-size: 20px;
+  font-family: geneva;
+  color: #74ab9a;
+}
+
+div.output {
+  font-size: 20px;
+  font-family: geneva;
+  padding-bottom: 20px;
+  color: #3d260f;
+}
