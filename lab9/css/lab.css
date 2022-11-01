@@ -1,0 +1,34 @@
+body {
+  background-color: #f0edff;
+}
+
+h1 {
+  color: #86d5f0;
+  font-size: 300%;
+  font-family: geneva;
+  text-indent: 10px;
+  padding: 5px;
+}
+
+#content {
+  padding: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+h2 {
+  font-size: 200%;
+  font-family: geneva;
+  color: #fc6574;
+}
+
+p {
+  font-size: 20px;
+  font-family: geneva;
+  color: #9187c9;
+}
+
+#output {
+  margin: 20px;
+
+}
