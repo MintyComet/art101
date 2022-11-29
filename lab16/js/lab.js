@@ -24,7 +24,7 @@ var comicObj;
      success: function(data) {
          comicObj = data;
          $('#output').append('<h2>' + comicObj.title + '</h2>');
-         $('#output').append('<img src=' + comicObj.img + 'alt =' + comicObj.alt + '/>');
+         $('#output').append('<img src=' + comicObj.img + ' alt=' + comicObj.alt + '/>');
      },
      // What we do if the api call fails
      error: function (jqXHR, textStatus, errorThrown) {
